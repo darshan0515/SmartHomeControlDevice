@@ -1,2 +1,2 @@
-# SmartHomeCOntrolDevice
+# SmartHomeControlDevice
  FSWD PROJECT
